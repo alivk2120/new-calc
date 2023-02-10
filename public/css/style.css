@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("../img/lamborghini.jpg");
+  background-image: url("../img/lamborghini.png");
   background-size: cover;
   background-attachment: fixed;
 }
